@@ -2,7 +2,7 @@
 
 This is a disassembly of Pokémon Red and Blue.
 
-This is forked from [**pret/pokered**][https://github.com/pret/pokered]. It [**Pokémon Yellow**][https://github.com/pret/pokered] contains the fix to avoid crash when going to Poke Center if you play on Numworks calculator.
+This is forked from [**pret/pokered**][pret/pokered]. It contains the fix to avoid crash when going to Poke Center if you play on Numworks calculator.
 
 It builds the following ROMs:
 
@@ -31,6 +31,7 @@ Other disassembly projects:
 - [**Pokémon FireRed**][pokefirered]
 - [**Pokémon Emerald**][pokeemerald]
 
+[pret/pokered]: https://github.com/pret/pokered
 [pokeyellow]: https://github.com/pret/pokeyellow
 [pokegold]: https://github.com/pret/pokegold
 [pokecrystal]: https://github.com/pret/pokecrystal
