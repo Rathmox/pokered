@@ -2,6 +2,8 @@
 
 This is a disassembly of Pokémon Red and Blue.
 
+This is forked from [pret/pokered][https://github.com/pret/pokered]. It contains the fix to avoid crash when going to Poke Center if you play on Numworks calculator.
+
 It builds the following ROMs:
 
 - Pokemon Red (UE) [S][!].gb `sha1: ea9bcae617fdf159b045185467ae58b2e4a48b9a`
